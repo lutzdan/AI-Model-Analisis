@@ -1,0 +1,1 @@
+Modular Haskell Project that analyzes the results of AI experiment, it reads a .txt document which has the results of the AI Models experiments and generates an automatic metric report and performance classifications.
