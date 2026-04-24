@@ -1,0 +1,5 @@
+modelo precision perdida epocas
+Perceptron 0.78 0.45 25
+MLP 0.91 0.18 40
+CNN 0.96 0.10 50
+RNN 0.84 0.30 35

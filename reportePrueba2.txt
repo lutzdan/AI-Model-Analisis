@@ -1,0 +1,36 @@
+=======================================================
+         REPORTE DE ANALISIS DE MODELOS DE IA
+=======================================================
+
+  Total de modelos analizados : 4
+  Promedio de precision       : 0.87
+  Promedio de perdida         : 0.26
+  Suma total de epocas        : 150
+
+-------------------------------------------------------
+  MEJOR MODELO
+-------------------------------------------------------
+  Modelo    : CNN
+  Precision : 0.96
+  Perdida   : 0.1
+  Epocas    : 50
+
+-------------------------------------------------------
+  MODELOS DESTACADOS (Excelente / Bueno)
+-------------------------------------------------------
+  * MLP [Bueno]
+  * CNN [Excelente]
+
+
+-------------------------------------------------------
+  TABLA DE CLASIFICACION COMPLETA
+-------------------------------------------------------
+  Modelo       Precision   Perdida   Epocas  Clasificacion
+
+-------------------------------------------------------
+  Perceptron   0.78        0.45      25      Regular
+  MLP          0.91        0.18      40      Bueno
+  CNN          0.96        0.1       50      Excelente
+  RNN          0.84        0.3       35      Regular
+
+=======================================================
